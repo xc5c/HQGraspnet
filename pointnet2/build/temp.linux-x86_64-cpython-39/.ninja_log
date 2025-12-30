@@ -1,0 +1,12 @@
+# ninja log v5
+2	11399	1743352292572337089	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/interpolate_gpu.o	db7ae33dfaffa485
+1	11650	1743352292824343787	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/ball_query_gpu.o	d96521a8b5668cc6
+1	11941	1743352293116351546	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/cylinder_query_gpu.o	254c4158deac5ff4
+1	11981	1743352293156352610	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/group_points_gpu.o	4f6913e0755cc0c
+2	12211	1743352293384358667	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/sampling_gpu.o	c839b7d1ec421bda
+1	12939	1743352294116378116	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/bindings.o	7248e04be65ba312
+1	13435	1743352294612391291	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/cylinder_query.o	2f7b59608e174d6
+2	13747	1743352294924399578	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/sampling.o	966703cb0d3da08f
+1	15732	1743352296912452365	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/ball_query.o	d6e52f4dfa102504
+1	15785	1743352296964453746	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/interpolate.o	7a5938af929b19ce
+1	15815	1743352296992454489	/home/xcc/PycharmProjects/all_code/graspnet/pointnet2/build/temp.linux-x86_64-cpython-39/_ext_src/src/group_points.o	1f614c31484c6863
